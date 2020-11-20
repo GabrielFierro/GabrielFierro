@@ -5,7 +5,10 @@
 
 - 📫 How to reach me: **gabriel.fierro@est.fi.uncoma.edu.ar**
 
-- 📄 Know about my experiences: I recently worked in the project landingOng. You can see more here: [landingOng](https://github.com/magentateam/landingOng)
+- 📄 Know about my experiences: I recently worked in the project landingOng. You can see more here: 
+
+[landingOng - Repositorie](https://github.com/magentateam/landingOng)
+[landingOng - Web](https://magentateam.github.io/landingOng/public/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
