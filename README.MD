@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/f__gabriel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/f__gabriel" height="30" width="40" /></a>
+<a href="https://codepen.io/f__gabriel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/f__gabriel" height="30" width="40" /></a>
 <a href="https://bit.ly/3pycgbr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://bit.ly/3pycgbr" height="30" width="40" /></a>
 </p>
 
