@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
+<h1 align="center">Hi 👋, I'm</h1>
+
+![Gabriel Fierro](gabrielfierro.gif)
+
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 - 🌱 I’m currently learning **Frontend technologies.**
@@ -11,6 +14,7 @@
 
     - [landingOng - Web](https://magentateam.github.io/landingOng/public/)
 
+- 💻 You can see the code about my name here: [GabrielFierro Codepen](https://codepen.io/F__Gabriel/pen/VwKjyJE)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
