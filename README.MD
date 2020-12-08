@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm</h1>
 
-![Gabriel Fierro](gabrielfierro.gif)
+![Gabriel Fierro](/Images/gabrielfierro.gif)
 
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
