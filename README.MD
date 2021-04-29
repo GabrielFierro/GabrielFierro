@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm</h1>
 
-![Gabriel Fierro](/Images/gabrielfierro.gif)
-
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning React, MaterialUI, Bootstrap and soon Node.js
+- 🌱 I’m currently learning React, MaterialUI, Bootstrap and soon Node.js.
+- Also I'm work on my Portfolio and you can see the progress here in the [repositorie](https://github.com/GabrielFierro/Portfolio)
 
 - 📫 How to reach me: **gabriel.fierro@est.fi.uncoma.edu.ar**
 
