@@ -3,13 +3,13 @@
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
 - 🌱 I’m currently learning React, MaterialUI, Bootstrap and soon Node.js.
-- Also I'm work on my Portfolio and you can see the progress here in the [repositorie](https://github.com/GabrielFierro/Portfolio)
+- Also I'm work on my Portfolio and you can see the progress here in the [repository](https://github.com/GabrielFierro/Portfolio)
 
 - 📫 How to reach me: **gabriel.fierro@est.fi.uncoma.edu.ar**
 
 - 📄 Know about my experiences: I recently worked in the project landingOng. You can see more here:
 
-  - [landingOng - Repositorie](https://github.com/magentateam/landingOng)
+  - [landingOng - Repository](https://github.com/magentateam/landingOng)
 
   - [landingOng - Web](https://magentateam.github.io/landingOng/public/)
 
