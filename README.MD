@@ -1,33 +1,55 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+# [![Gabriel Fierro header](/Images/header.jpg)](https://gabrielfierro.netlify.app/)
 
-- 🔭 I’m currently working on [my Portfolio](https://github.com/GabrielFierro/Portfolio)
+---
 
-- 📄 Know about my experiences: I recently worked in the project landingOng. You can see more here:
-
-  - [landingOng - Repo](https://github.com/magentateam/landingOng)
-
-  - [landingOng - Demo](https://magentateam.github.io/landingOng/public/)
-
-- 🖥️ I’m currently learning **React, Chakra UI.**
-
-- 📫 How to reach me **fierrogabriel13@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-fierro-2020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-fierro-2020/" height="30" width="40" /></a>
+<p align='center'>
+Connect with me 😄 :
+<a href="https://www.linkedin.com/in/gabriel-fierro-2020/"><img height="30" src="https://github.com/GabrielFierro/GabrielFierro/blob/master/icon/linkedin.png?raw=true"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://github.com/chakra-ui/chakra-ui"> <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" alt="Chakra logo" width="140" height="50" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+---
+
+Hey there 👋,
+
+I'm Gabriel Fierro specialized in CSS, Javascript, and React js based in Argentina. I'm very curious and I'm always reading blogs, posts or watching videos about new updates on Frontend technologies. You can see a full list of what I am up to on [Gabriel Fierro](https://gabrielfierro.netlify.app/).
+I'm an enthusiastic, responsible and self-taught frontend developer who wants to learn web technologies and grow up professionally. I'm able to adapt very quickly and overall I'm really friendly. Who can fit in any team and I love to help my teammates. I've knowledge in the following technologies.
+
+<div style="background-color: white;display: flex; flex-direction: row; margin-top: 30px;">
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </div>
+  <div> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </div>
+  <div>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  </div>
+  <div>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </div>
+  <div>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="tailwind" width="40" height="40"/>
+  </div>
+<div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </div>
+<div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" width="40" height="40"/>
+  </div>
+</div>
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielfierro&show_icons=true&locale=en&layout=compact" alt="gabrielfierro" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielfierro&show_icons=true&locale=en" alt="gabrielfierro" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielfierro&" alt="gabrielfierro" /></p>
