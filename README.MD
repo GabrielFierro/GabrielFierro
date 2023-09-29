@@ -7,12 +7,10 @@ Connect with me 😄 :
 
 Hey there 👋,
 
-<p style="margin-bottom: 35px;">
 I'm Gabriel Fierro specialized in CSS, Javascript, and React js based in Argentina. I'm very curious and I'm always reading blogs, posts or watching videos about new updates on Frontend technologies. You can see a full list of what I am up to on [Gabriel Fierro](https://gabrielfierro.netlify.app/).
 I'm an enthusiastic, responsible and self-taught frontend developer who wants to learn web technologies and grow up professionally. I'm able to adapt very quickly and overall I'm really friendly. Who can fit in any team and I love to help my teammates. I've knowledge in the following technologies.
-</p>
 
-<div align="left">
+<div align="left" style="margin-top: 35px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
