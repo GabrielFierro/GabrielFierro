@@ -15,8 +15,17 @@
 
 Con experiencia en **frontend y backend**, disfruto diseñar y construir aplicaciones completas:
 
-- **Frontend**: React, Vue, TypeScript, CSS (Tailwind), Sass.
+- **Frontend**: React, Vue, TypeScript, CSS (Tailwind / Chakra / Bootstrap).
 - **Backend**: NestJS, PHP, SQL, Python.
+
+💼 **Experiencia:**  
+He trabajado en **proyectos** desarrollando aplicaciones web desde cero y manteniendo plataformas en producción.
+
+- Desarrollo de **APIs REST** con **NestJS**.
+- Uso de **bases de datos SQL** para consultas de alto volumen.
+- Construcción de **interfaces dinámicas en React y Vue**, priorizando accesibilidad y rendimiento.
+- Integración de sistemas internos y servicios externos.
+- Trabajo en **equipos ágiles**, participando en code reviews, planificación y despliegues.
 
 Me motiva crear **aplicaciones robustas, escalables y fáciles de usar**, cuidando tanto la **experiencia de usuario** como la **arquitectura del software**.
 
