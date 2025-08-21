@@ -1,30 +1,48 @@
-# [![Gabriel Fierro header](/Images/header.jpg)](https://gabrielfierro.netlify.app/)
+## 👋 ¡Hola! Soy Gabriel Fierro
 
-<p align='center'>
-Connect with me 😄 :
-<a href="https://www.linkedin.com/in/gabriel-fierro-2020/"><img height="30" src="https://github.com/GabrielFierro/GabrielFierro/blob/master/icon/linkedin.png?raw=true"></a>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-5BC0EB?style=for-the-badge&logo=react&logoColor=1746C6)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Hey there 👋,
+---
 
-I'm Gabriel Fierro specialized in CSS, Javascript, and React js based in Argentina. I'm very curious and I'm always reading blogs, posts or watching videos about new updates on Frontend technologies. You can see a full list of what I am up to on [Gabriel Fierro](https://gabrielfierro.netlify.app/).
-I'm an enthusiastic, responsible and self-taught frontend developer who wants to learn web technologies and grow up professionally. I'm able to adapt very quickly and overall I'm really friendly. Who can fit in any team and I love to help my teammates. I've knowledge in the following technologies.
+### 🚀 Soy **Fullstack Developer**
 
-<div align="left" style="margin-top: 35px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" alt="Chakra logo" width="130" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+Con experiencia en **frontend y backend**, disfruto diseñar y construir aplicaciones completas:
+
+- **Frontend**: React, Vue, TypeScript, CSS (Tailwind), Sass.
+- **Backend**: NestJS, PHP, SQL, Python.
+
+Me motiva crear **aplicaciones robustas, escalables y fáciles de usar**, cuidando tanto la **experiencia de usuario** como la **arquitectura del software**.
+
+---
+
+### 🌟 Más allá de lo técnico
+
+Me gusta trabajar en equipo, y sobretodo escuchar a mis colegas cuando comparten conocimiento.
+Me considero **adaptable, curioso y resolutivo**, lo que me permite crecer rápido y aportar valor en entornos colaborativos.
+
+---
+
+### 📊 Mis estadísticas en GitHub
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielfierro&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Top Langs" />
+
 </div>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielfierro&show_icons=true&locale=en&layout=compact" alt="gabrielfierro" /></p>
+### 📫 Conecta conmigo
+
+<p>
+<a href="https://www.linkedin.com/in/gabriel-fierro-2020/">
+  <img height="30" src="https://github.com/GabrielFierro/GabrielFierro/blob/master/icon/linkedin.png?raw=true">
+</a>
+</p>
