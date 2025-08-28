@@ -11,6 +11,17 @@
 
 ---
 
+<p style="text-align:center;">
+<a href="https://www.linkedin.com/in/gabriel-fierro-2020/" target="_blank">
+  <img height=30 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:fierrogabriel13@gmail.com">
+  <img height=30 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
 ### 🚀 Soy **Fullstack Developer**
 
 Con experiencia en **frontend y backend**, disfruto diseñar y construir aplicaciones completas:
@@ -45,13 +56,3 @@ Me considero **adaptable, curioso y resolutivo**, lo que me permite crecer rápi
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielfierro&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Top Langs" />
 
 </div>
-
----
-
-### 📫 Conecta conmigo
-
-<p>
-<a href="https://www.linkedin.com/in/gabriel-fierro-2020/">
-  <img height="30" src="https://github.com/GabrielFierro/GabrielFierro/blob/master/icon/linkedin.png?raw=true">
-</a>
-</p>
