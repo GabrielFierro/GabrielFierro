@@ -2,57 +2,89 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-5BC0EB?style=for-the-badge&logo=react&logoColor=1746C6)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-5BC0EB?style=for-the-badge&logo=react&logoColor=1746C6)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 ---
 
-<p style="text-align:center;">
+<p align="center">
 <a href="https://www.linkedin.com/in/gabriel-fierro-2020/" target="_blank">
-  <img height=30 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:fierrogabriel13@gmail.com">
-  <img height=30 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
 ---
 
-### 🚀 Soy **Fullstack Developer**
+## 🚀 Fullstack Developer
 
-Con experiencia en **frontend y backend**, disfruto diseñar y construir aplicaciones completas:
+Desarrollo aplicaciones web completas, desde la arquitectura backend hasta interfaces modernas y optimizadas en frontend.
 
-- **Frontend**: React, Vue, TypeScript, CSS (Tailwind / Chakra / Bootstrap).
-- **Backend**: NestJS, PHP, SQL, Python.
-
-💼 **Experiencia:**  
-He trabajado en **proyectos** desarrollando aplicaciones web desde cero y manteniendo plataformas en producción.
-
-- Desarrollo de **APIs REST** con **NestJS**.
-- Uso de **bases de datos SQL** para consultas de alto volumen.
-- Construcción de **interfaces dinámicas en React y Vue**, priorizando accesibilidad y rendimiento.
-- Integración de sistemas internos y servicios externos.
-- Trabajo en **equipos ágiles**, participando en code reviews, planificación y despliegues.
-
-Me motiva crear **aplicaciones robustas, escalables y fáciles de usar**, cuidando tanto la **experiencia de usuario** como la **arquitectura del software**.
+Me enfoco en crear software **escalable, mantenible y orientado a negocio**, priorizando rendimiento, buenas prácticas y experiencia de usuario.
 
 ---
 
-### 🌟 Más allá de lo técnico
+## 💻 Stack Tecnológico
 
-Me gusta trabajar en equipo, y sobretodo escuchar a mis colegas cuando comparten conocimiento.
-Me considero **adaptable, curioso y resolutivo**, lo que me permite crecer rápido y aportar valor en entornos colaborativos.
+### 🖥 Frontend
+
+- React
+- Vue
+- TypeScript
+- Tailwind CSS
+- Material UI
+
+### ⚙️ Backend
+
+- Node.js
+- Express
+- NestJS
+
+### 🗄 Bases de Datos
+
+- PostgreSQL
+- MySQL
+
+### 🧪 Testing
+
+- Cypress
 
 ---
 
-### 📊 Mis estadísticas en GitHub
+## 🛠 Herramientas
+
+- GCP
+- Git
+- GitHub
+- Jira
+- Slack
+- Notion
+- Figma
+
+Trabajo bajo metodologías ágiles, participando activamente en planificación, code reviews y despliegues continuos.
+
+---
+
+## 📊 Estadísticas en GitHub
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=gabrielfierro&theme=tokyonight&hide_border=true"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielfierro&show_icons=true&locale=es&layout=compact&theme=tokyonight" alt="Top Langs" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielfierro&theme=tokyo-night"/>
 
 </div>
